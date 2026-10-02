@@ -18,13 +18,11 @@ project:
   source_files:
     - "tt_um_davidr_vgacrazy.v"
     - "hvsync_generator.v"
-    - "bitmap_rom.v"
-    - "palette.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "Jump"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
